@@ -1,3 +1,3 @@
 # New project
 
-This project show the work of html 
+This project show the work of html,style,javascript
